@@ -1,0 +1,10 @@
+main(){
+ int zahlengrenze=6;
+
+   if(zahlengrenze > 10){//If Zweig
+     print("Die Zahlengrenze ist höher als 10");
+
+ }
+  //Else Zweig
+  print("Die Zahlengrenze ist niedriger als 10");
+}
